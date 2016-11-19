@@ -1,10 +1,10 @@
 ---
-title:  "Gay Atlanta"
-subtitle: "America's "gayest city"
+title:"Gay Atlanta"
+subtitle:"America's "gayest city"
 author: "atlanta"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2016-11-19 13:56:12
+date: 2016-11-19 13:56:12
 ---
 
 ### Atlanta, Georgia
