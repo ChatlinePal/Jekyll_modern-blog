@@ -6,7 +6,6 @@ avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date: 2016-11-19 13:56:12
 ---
-
 ### Atlanta, Georgia
 Georgia's capital and largest city, Atlanta is a major Southern financial and cultural force, the site of the 1996 Olympic Games and one of the fastest-growing cities in the United States. A lot of people have flocked to Atlanta because this city has absolutely everything going for it—climate, location, great transportation and easy air access. Atlanta also boasts the busiest airport in the world. Atlanta is the business center of the southeast Coca Cola Enterprises, Delta Air Lines, Home Depot, Newell Rubbermaid, SunTrust Bank and UPS, are headquartered in the area.
 ### Gay Atlanta
