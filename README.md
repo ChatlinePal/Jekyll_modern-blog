@@ -1,8 +1,8 @@
-# Jekyll Modern Blog
+# Atlanta Gay Chat Line Blog
 
-A Simple, Clean and responsive modern blog for jekyll.
+A free trial gay chat line in Atlanta.
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+## [Gay Chat Line](http://chatlinepal.com/)
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
