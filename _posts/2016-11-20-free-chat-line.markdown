@@ -1,7 +1,7 @@
 ---
 title:  "The Ultimate Gay Chatline"
 subtitle: "free trial gay chat line!"
-author: "Wferr"
+author: "gay"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2016-11-20 12:12:12
